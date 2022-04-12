@@ -2,7 +2,7 @@
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class ImageOfDay extends CX_Controller {
+class Resource extends CX_Controller {
 
   public function __construct() {
       parent::__construct();
