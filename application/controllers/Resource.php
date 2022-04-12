@@ -11,8 +11,7 @@ class ImageOfDay extends CX_Controller {
    
   public function today(){
       $this->validateToken();
-
-      echo "funziona";
+      // put your code here
   }
 
 }
